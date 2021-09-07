@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CuekrsBWlv+ZlBDZR+cT8QuPOkCp1p6RtBISpxhKU7bSTTKqeXDgLsYSmz8Xg743HG19qxr4RYv3VnEoqqTaVA==",
+  "dgSpecHash": "vvZXg9dmtR0IlzpWCWZJIFFbPWHD+442fkEoEM7g0m7Asiuugn/7ZL5cyxeD+PCfUMzTiogw0HAv0sB0UyfAsA==",
   "success": true,
-  "projectFilePath": "/home/runner/C/main.csproj",
+  "projectFilePath": "/home/runner/Week2InClass-2/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
